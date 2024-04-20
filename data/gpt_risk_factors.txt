@@ -1,0 +1,32 @@
+DIAGNOSIS	FACTORS
+ganglioglioma	seizures, brain tumor history, radiation exposure, neurofibromatosis type 1
+glioma	family history, certain genetic disorders, exposure to radiation, certain chemical exposures, previous history of brain tumor or cancer, compromised immune system
+multiple sclerosis	family history, smoking, certain infections, certain autoimmune diseases, northern european descent, low vitamin d levels, obesity, certain environmental factors.
+stroke	high blood pressure, smoking, diabetes, high cholesterol levels, obesity, sedentary lifestyle, excessive alcohol consumption, family history of stroke, previous history of stroke or tia (transient ischemic attack), certain medical conditions (such as atrial fibrillation or heart disease), use of certain medications (such as oral contraceptives or hormone replacement therapy).
+diffuse axonal injury	trauma, motor vehicle accidents, falls, sports-related injuries, physical abuse, shaking injuries, blast injuries, penetrating head injuries
+intraparenchymal hemorrhage	hypertension, smoking, heavy alcohol consumption, history of previous stroke or tia, diabetes, abnormal blood clotting, certain medications (such as anticoagulants), drug abuse.
+hydrocephalus	congenital abnormalities, infections, trauma, tumors, bleeding in the brain, complications from prior surgeries or medical conditions, genetic disorders.
+posterior reversible encephalopathy syndrome	hypertension, renal disease, organ transplantation, autoimmune diseases, immunosuppressant medication, chemotherapy, eclampsia, preeclampsia, sepsis, cns infections, systemic lupus erythematosus, thrombotic microangiopathy.
+brain tumor	genetic predisposition, exposure to radiation, family history of brain tumors, certain inherited syndromes, previous history of brain tumor.
+white matter disease	hypertension, diabetes, smoking, obesity, metabolic syndrome, hyperhomocysteinemia, vascular disease, history of stroke, brain injury or trauma, alcohol abuse.
+sinusitis	allergies, asthma, smoking, nasal polyps, weak immune system, facial structure abnormalities, dental infections
+subdural hematoma	head trauma, alcohol abuse, certain medications (such as anticoagulants), bleeding disorders, and previous history of subdural hematoma.
+septic embolism	underlying infection, compromised immune system, intravenous drug use, recent surgery or medical procedure, presence of medical devices (such as catheters or prosthetic heart valves), injection drug use, infective endocarditis, underlying cardiac or pulmonary conditions, long-term intravenous medication use, chronic illnesses or conditions impacting the immune system such as hiv/aids or cancer.
+subarachnoid hemorrhage	hypertension, smoking, family history of subarachnoid hemorrhage, history of cerebral aneurysm, drug abuse (particularly cocaine), connective tissue disorders, polycystic kidney disease, history of previous stroke or transient ischemic attack (tia), traumatic brain injury, arteriovenous malformation, moyamoya disease
+intracranial hemorrhage	hypertension, trauma, drug use, blood clotting disorders, liver disease, brain tumor, vascular malformations, aneurysms, anticoagulant use
+glioblastoma	exposure to ionizing radiation, family history of glioma or other brain tumors, certain hereditary conditions such as neurofibromatosis type 1 or 2, li-fraumeni syndrome, turcot syndrome, and genetic mutations in the idh1 or idh2 genes.
+demyelination	genetic factors, family history of demyelinating disorders, autoimmune disorders, viral infections, exposure to environmental toxins.
+radiation necrosis	underlying medical conditions, previous radiation therapy, higher radiation dose, longer duration of radiation treatment, radiation to the brain or spinal cord, concurrent chemotherapy or other medications, smoking or tobacco use.
+vasculitis	underlying autoimmune diseases, family history of vasculitis, exposure to certain medications or infections, smoking, and environmental factors
+cerebral amyloid angiopathy	hypertension, apoe ε4 allele, history of head trauma, family history of caa, and presence of other neurodegenerative diseases.
+small vessel disease	hypertension, diabetes, high cholesterol, smoking, obesity, sedentary lifestyle, family history of small vessel disease, kidney disease, heart disease, atrial fibrillation.
+ependymoma	genetic mutations, exposure to radiation, history of neurofibromatosis type 2 (nf2), history of tuberous sclerosis complex (tsc), history of li-fraumeni syndrome (lfs)
+brain hemorrhage	hypertension, aneurysms, blood vessel abnormalities, blood disorders, liver disease, brain tumors, trauma, drug abuse, smoking, alcohol abuse, family history of brain hemorrhage, cocaine use.
+brain metastasis	primary cancer type, tumor size, lymph node involvement, distant metastasis, histological grade, genetic mutations, previous history of cancer, treatment response.
+astrocytoma	genetic factors, exposure to radiation, certain hereditary syndromes, history of cancer, immunodeficiency disorders
+cerebral venous thrombosis	pregnancy, use of oral contraceptives, hormonal replacement therapy, certain genetic disorders, cancer, infections, trauma, dehydration, certain medications, smoking, obesity, contraceptive implants or intrauterine devices
+lyme disease	tick bite, outdoor activities, living in wooded or grassy areas, having pets that can bring ticks indoors, lack of tick prevention measures, not removing ticks promptly and properly.
+meningioma	genetic predisposition, radiation exposure, hormonal factors, head trauma, and certain medical conditions.
+cerebral infarction	hypertension, diabetes, high cholesterol, smoking, obesity, physical inactivity, family history of stroke, heart disease, atrial fibrillation, previous transient ischemic attack (tia) or stroke, excessive alcohol consumption, drug abuse.
+cerebral edema	trauma, brain tumors, infections, stroke, hydrocephalus, drug toxicity, metabolic conditions (such as hyponatremia or ketoacidosis), high altitude exposure, certain medications (such as corticosteroids), surgery, autoimmune diseases, and radiation therapy.
+meningitis	meningitis risk factors: close contact with an infected person, weakened immune system, certain medical conditions or procedures, living in close quarters (e.g., dormitory, military barracks), recent respiratory or ear infection.
