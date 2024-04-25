@@ -1,4 +1,6 @@
-**EVIDENCE GENERATION**
+
+
+**Evidence Generation**
 
 1. To generate evidence using Flan-T5 or Mistral-Instruct
 
@@ -30,7 +32,7 @@
 	`EMBEDDINGS_PATH`: Path of embeddings generated from run_embed_risk_factors.sbatch <br>
 
 
-**AUTOMATIC EVALUATION**
+**Automatic Evaluation**
 
 1. Extract risks and signs from the evidence. Evaluate each extracted risk/sign. (Update evidence filename, suffix, folder arguments)
 
@@ -41,4 +43,10 @@
 
 		cd scripts
 		sbatch run_find_hallucinations.sh
+
+
+**Data**
+
+
+We will release MIMIC-III evaluations on Physionet soon.
 
