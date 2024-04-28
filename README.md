@@ -1,4 +1,7 @@
+**Data**
 
+
+The MIMIC-III evaluation dataset is under review on Physionet. We will update the link once approved!
 
 **Evidence Generation**
 
@@ -45,8 +48,5 @@
 		sbatch run_find_hallucinations.sh
 
 
-**Data**
 
-
-We will release MIMIC-III evaluations on Physionet soon.
 
